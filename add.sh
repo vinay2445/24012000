@@ -4,7 +4,7 @@
 
 # Read first number
 echo "Enter first number:"
-read num1
+read num177
 
 # Read second number
 echo "Enter second number:"
